@@ -1,0 +1,15 @@
+# Main data manipulation and array processing matrix environments
+numpy>=1.22.0
+pandas>=1.4.0
+
+# Deep learning framework backend engine
+tensorflow>=2.8.0
+
+# Preprocessing utilities and evaluation metric reporting frameworks
+scikit-learn>=1.2.0
+
+# Specialized statistical visualization plotting engines
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+jupyter
